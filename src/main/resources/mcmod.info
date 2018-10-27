@@ -1,0 +1,14 @@
+[{
+    "modid": "cps_limiter",
+    "name": "CPSLimiter",
+    "description": "Adds CPS Counter and Limits the CPS for YouTubers.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["tomotomo"],
+    "credits": [],
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+}]
